@@ -10,5 +10,5 @@
 
 `ox_lib`
 
-[Previev]: https://www.youtube.com/watch?v=eMWg2fOFDZU
-[Discord]: https://discord.gg/84gRYCAUCN
+Previev: https://www.youtube.com/watch?v=eMWg2fOFDZU
+Discord: https://discord.gg/84gRYCAUCN
