@@ -2,7 +2,7 @@
 
 ``` Menu ubrań do Fivem ```
 
-**Włosy chowają się automatycznie pod czapkę. **
+**Włosy chowają się automatycznie pod czapkę.**
 
 **Menu nie jest potrzebne do używania skryptu.**
 
